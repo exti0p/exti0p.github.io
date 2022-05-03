@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>training on exti0p&#39;s realm</title>
+    <link>/tags/training/</link>
+    <description>Recent content in training on exti0p&#39;s realm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity Services</title>
+      <link>/services/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>&lt;p&gt;As a freelancer, I offer multiple cybersecurity services:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;intern_ctf_training&#34;&gt;Intern CTF training&lt;/a&gt; to improve your employees technical skills&lt;/li&gt;
+&lt;li&gt;Penetration testing
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;black_box&#34;&gt;Black box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;grey_box&#34;&gt;Grey box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;security_code_audit&#34;&gt;Security code audit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;internal&#34;&gt;Internal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;social_engineering&#34;&gt;Social engineering campaigns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;p&gt;As a freelancer, I offer multiple cybersecurity services:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;intern_ctf_training&#34;&gt;Intern CTF training&lt;/a&gt; to improve your employees technical skills&lt;/li&gt;
+&lt;li&gt;Penetration testing
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;black_box&#34;&gt;Black box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;grey_box&#34;&gt;Grey box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;security_code_audit&#34;&gt;Security code audit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;internal&#34;&gt;Internal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;social_engineering&#34;&gt;Social engineering campaigns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I keep my clients&#39; information confidential as cybersecurity is a critical concern that an attacker could abuse on a company or a public administration.&lt;/p&gt;</content>
+    </item>
+    
+    <item>
+      <title>Internal CTF training</title>
+      <link>/services/internal_ctf_training/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/internal_ctf_training/</guid>
+      <description>&lt;p&gt;Capture the Flag (CTF) is a special kind of information security competitions.&lt;/p&gt;
+&lt;p&gt;From my previous professional experience, I designed an intern CTF to train tech people in various fields in information security. I deeply think that it is a cutting-edge opportunity to learn and train teams to do their daily job. Thereby, I offer as a service to create this kind of training regarding the InfoSec field.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Capture the Flag (CTF) is a special kind of information security competitions.&lt;/p&gt;
+&lt;p&gt;From my previous professional experience, I designed an intern CTF to train tech people in various fields in information security. I deeply think that it is a cutting-edge opportunity to learn and train teams to do their daily job. Thereby, I offer as a service to create this kind of training regarding the InfoSec field.&lt;/p&gt;
+&lt;p&gt;I can notably focus a training on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web security&lt;/li&gt;
+&lt;li&gt;Penetration testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Specifications&lt;/li&gt;
+&lt;li&gt;Categories definition&lt;/li&gt;
+&lt;li&gt;Challenges brainstorming&lt;/li&gt;
+&lt;li&gt;Feedback and patches&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

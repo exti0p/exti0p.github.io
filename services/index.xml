@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity Services on exti0p&#39;s realm</title>
+    <link>/services/</link>
+    <description>Recent content in Cybersecurity Services on exti0p&#39;s realm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black box</title>
+      <link>/services/black_box/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/black_box/</guid>
+      <description>&lt;p&gt;In this approach to testing, the penetration testing team does not have any knowledge of the internal working of target systems. Thus, black box penetration testing is an audit that stages an external malicious attacker with only public information on your company such as your website URL or your employees LinkedIn pages.&lt;/p&gt;</description>
+      <content>&lt;p&gt;In this approach to testing, the penetration testing team does not have any knowledge of the internal working of target systems. Thus, black box penetration testing is an audit that stages an external malicious attacker with only public information on your company such as your website URL or your employees LinkedIn pages.&lt;/p&gt;
+&lt;p&gt;One outstanding benefit of black box penetration testing is the simulation of realistic scenarios while attempting to find vulnerabilities in your company&amp;rsquo;s information system.&lt;/p&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconnaissance&lt;/li&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;Exploitation&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+    <item>
+      <title>Grey box</title>
+      <link>/services/grey_box/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/grey_box/</guid>
+      <description>&lt;p&gt;Grey box penetration testing is an audit that stages a malicious third-party service with some relevant information on your company such as IP addresses or API endpoints. These information could be specified by your CISO.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Grey box penetration testing is an audit that stages a malicious third-party service with some relevant information on your company such as IP addresses or API endpoints. These information could be specified by your CISO.&lt;/p&gt;
+&lt;p&gt;With a grey box penetration test, testing speed is slightly quicker than a black box penetration test since the tester has more information. However, it makes up for this drawback with a broader and more efficient assessment of a target system&amp;rsquo;s security. Moreover, since testers are not entirely in the dark, they can simulate attacks more efficiently and go beyond what would be possible in the black box mode. A grey box penetration test achieves a good balance between the efficiency of the black box method and the depth of the white box approach.&lt;/p&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;Exploitation&lt;/li&gt;
+&lt;li&gt;Post-Exploitation&lt;/li&gt;
+&lt;li&gt;Lateral Movement&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+    <item>
+      <title>Internal</title>
+      <link>/services/internal/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/internal/</guid>
+      <description>&lt;p&gt;Internal penetration testing is an audit that aims at performing tests inside the company or sometimes through a VPN. Most of the time, penetration testers go to the company’s buildings, bring their equipment and put themselves in the shoes of an internal attacker.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Internal penetration testing is an audit that aims at performing tests inside the company or sometimes through a VPN. Most of the time, penetration testers go to the company’s buildings, bring their equipment and put themselves in the shoes of an internal attacker.&lt;/p&gt;
+&lt;p&gt;An internal penetration testing enables you to measure the risk for your internal network to be compromised. This involves detecting incorrect configurations, identifying internal vulnerabilities that can be exploited by an attacker and measuring the consequences on the internal network if a machine were compromised.&lt;/p&gt;
+&lt;p&gt;I notably focus on exploitations based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Local phishing&lt;/li&gt;
+&lt;li&gt;Network sniffing&lt;/li&gt;
+&lt;li&gt;Network shares evaluation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconnaissance&lt;/li&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;Exploitation&lt;/li&gt;
+&lt;li&gt;Post-Exploitation&lt;/li&gt;
+&lt;li&gt;Lateral Movement&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+    <item>
+      <title>Internal CTF training</title>
+      <link>/services/internal_ctf_training/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/internal_ctf_training/</guid>
+      <description>&lt;p&gt;Capture the Flag (CTF) is a special kind of information security competitions.&lt;/p&gt;
+&lt;p&gt;From my previous professional experience, I designed an intern CTF to train tech people in various fields in information security. I deeply think that it is a cutting-edge opportunity to learn and train teams to do their daily job. Thereby, I offer as a service to create this kind of training regarding the InfoSec field.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Capture the Flag (CTF) is a special kind of information security competitions.&lt;/p&gt;
+&lt;p&gt;From my previous professional experience, I designed an intern CTF to train tech people in various fields in information security. I deeply think that it is a cutting-edge opportunity to learn and train teams to do their daily job. Thereby, I offer as a service to create this kind of training regarding the InfoSec field.&lt;/p&gt;
+&lt;p&gt;I can notably focus a training on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web security&lt;/li&gt;
+&lt;li&gt;Penetration testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Specifications&lt;/li&gt;
+&lt;li&gt;Categories definition&lt;/li&gt;
+&lt;li&gt;Challenges brainstorming&lt;/li&gt;
+&lt;li&gt;Feedback and patches&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+    <item>
+      <title>Security code audit</title>
+      <link>/services/security_code_audit/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/security_code_audit/</guid>
+      <description>&lt;p&gt;Security code auditing aims at reviewing the source code to discover if there are any potential security weaknesses, bugs, exploits or violations of programming standards.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Security code auditing aims at reviewing the source code to discover if there are any potential security weaknesses, bugs, exploits or violations of programming standards.&lt;/p&gt;
+&lt;p&gt;This can help to prevent cyber threats by exposing any weaknesses that are found in an organisation&amp;rsquo;s computer source code. The ultimate objective is to stop hackers from being able to exploit data or system resources due to inadequately coded software.&lt;/p&gt;
+&lt;p&gt;I can handle security code auditing on several languages such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;Exploitation&lt;/li&gt;
+&lt;li&gt;Post-Exploitation&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+    <item>
+      <title>Social engineering</title>
+      <link>/services/social_engineering/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/services/social_engineering/</guid>
+      <description>&lt;p&gt;Social engineering penetration testing focuses on people and processes and the vulnerabilities associated with them. These penetration tests typically consist of an ethical hacker conducting different social engineering attacks such as phishing, USB drops, or impersonation that a person could face during the course of their work.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Social engineering penetration testing focuses on people and processes and the vulnerabilities associated with them. These penetration tests typically consist of an ethical hacker conducting different social engineering attacks such as phishing, USB drops, or impersonation that a person could face during the course of their work.&lt;/p&gt;
+&lt;p&gt;The goal of this test is to identify weaknesses in a person, group of people, or process and identify vulnerabilities with a clear path to remediation.&lt;/p&gt;
+&lt;p&gt;I notably focus on campaigns based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phishing&lt;/li&gt;
+&lt;li&gt;Spear phishing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;methodology&#34;&gt;Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconnaissance&lt;/li&gt;
+&lt;li&gt;Exploitation&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

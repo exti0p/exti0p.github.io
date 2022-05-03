@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/services/black_box/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ctf/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/infosec/entrypoint/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/grey_box/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/infosec/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/infosec/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/internal/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/internal_ctf_training/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pentest/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/security_code_audit/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/social_engineering/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/training/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>
